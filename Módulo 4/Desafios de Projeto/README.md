@@ -10,10 +10,10 @@
 
 ###   Com base nas informações do diagrama relacional, foram criadas as seguintes tabelas dimensão:
 
-    * Departamento
-    * Data
-    * Disciplina
-    * Curso
+###    * Departamento
+###    * Data
+###    * Disciplina
+###    * Curso
 ###   Essas tabelas foram estruturadas a partir de agrupamentos de dados relevantes. Cada tabela recebeu índices próprios e identificadores únicos (IDs) para permitir futuros relacionamentos.
 
 ###   Os relacionamentos foram estabelecidos de acordo com a quantidade de instâncias presentes nas tabelas.
