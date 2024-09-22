@@ -4,18 +4,22 @@
 
 ## 🚀 Descrição do desafio concluído
 
-###   Analisou-se um diagrama relacional contendo diversos tipos de relacionamentos entre entidades.
+### O desafio já foi concluído com base nas alterações solicitadas e levando em consideração as recomendações que fizemos durante o curso. A seguir, descrevo os principais pontos desse processo de modificação do relatório criativo, com foco na experiência do usuário:
 
-###   Definiu-se o Professor como o foco principal da análise.
++   Posicionamento do layout
 
-###   Com base nas informações do diagrama relacional, foram criadas as seguintes tabelas dimensão:
++   Contraste para destacar as áreas-chave do relatório.
 
-###    * Departamento
-###    * Data
-###    * Disciplina
-###    * Curso
-###   Essas tabelas foram estruturadas a partir de agrupamentos de dados relevantes. Cada tabela recebeu índices próprios e identificadores únicos (IDs) para permitir futuros relacionamentos.
++   Segui a proporção áurea para organizar os principais componentes da primeira página.
 
-###   Os relacionamentos foram estabelecidos de acordo com a quantidade de instâncias presentes nas tabelas.
++   A organização dos dados foi feita de forma segmentada, dividindo as informações de maneira que o usuário possa absorver o conteúdo de forma gradual
 
-###   Foi modelado um Star Schema, conectando as tabelas dimensão à tabela fato, de forma a viabilizar a análise centralizada no Professor.
++   Inseri os botões de navegação, conforme solicitado, permitindo ao usuário transitar facilmente entre as páginas. 
+
++   Modifiquei os botões de navegabilidade, dando mais destaque às opções de focalizar e selecionar.
+
++   Criei menus de navegação em cada página.
+
++   O estilo dos botões foi pensado utilizando um design moderno e minimalista.
+
+### Com essas alterações, o relatório ficou mais dinâmico, funcional e criativo, respeitando as boas práticas de design, mas também sabendo quando e como quebrar as regras para agregar originalidade ao produto final.
